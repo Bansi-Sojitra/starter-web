@@ -1,6 +1,9 @@
 <!DOCTYPE html>
+<!--
+	copy right
+-->
 <head>
-	<title>Branch Title</title>
+	<title>Stash Title</title>
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 	<style>
 		body {
